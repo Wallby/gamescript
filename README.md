@@ -27,7 +27,7 @@ Now that's pretty much it. Oh, and these..
 6. There is a "memory" texture (called the VSS)
 7. There are "bindings"
 8. The "main" language is "JSON"
-9. There are "some" standard definitions (see [default values](Gamescript default values.ods), 
+9. There are "some" standard definitions (see [default values](Gamescript default values.ods), [definitions](GameScript definitions.odt)) 
 
 
 # EULA
