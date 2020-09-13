@@ -1,0 +1,9 @@
+---------------
+Gamescript EULA
+---------------
+
+This software may not be sold. Users of this software may not be charged for the usage of the software. The software must be freely available indefinitely to any user.
+
+Charging money, whether physically or digitally, for access to this software, or any of its features is a violation of this EULA.
+
+"[ ] I accept"
